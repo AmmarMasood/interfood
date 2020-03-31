@@ -1850,7 +1850,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 /*-------- Start Banner Area -------------*/
 .banner-area {
-  background: url(../img/banner-bg.jpg) center;
+  background: url(../img/banner-bg.png) center;
   background-size: cover;
   background-attachment: fixed; }
   @media (max-width: 767.98px) {
@@ -2312,7 +2312,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin-bottom: 0px; }
 
 .about-banner {
-  background: url(../img/top-banner.jpg) center; }
+  background: url(../img/top-banner.png) center; }
 
 .about-content {
   margin-top: 138px;
